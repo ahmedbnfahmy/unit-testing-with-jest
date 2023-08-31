@@ -22,7 +22,7 @@ describe.only('',()=>{
         const actual=sut.toUpperCase('ahmedfahmy')
         const expected= 'AHMEDFAHMY'
                 //assertion 
-        expect(actual).toBe(expected)
+        expect(actual).toBe(expected);
     })
     it ('class should return length',()=>{
         const actual=sut.getLength('ahmedfahmy')

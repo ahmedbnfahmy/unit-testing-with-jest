@@ -1,0 +1,8 @@
+
+
+{
+    "compilerOptions": {
+// to handle import and export options between modules 
+        "esModuleInterop": true
+    }
+}
